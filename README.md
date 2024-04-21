@@ -8,7 +8,7 @@ This is a CrewAI project, designed to assist in managing and preparing for busin
   - **Researcher:** Gathers information on meeting participants and associated companies.
   - **Industry Analyst:** Analyzes relevant industry trends.
   - **Meeting Strategist:** Develops the agenda and key talking points.
-  - **Brief Writer:** Compiles a comprehensive meeting brief.
+  - **Summary Writer:** Compiles a comprehensive meeting brief.
 
 - **Task Automation:** Systematic completion of tasks ranging from participant research to the generation of meeting briefs.
 
