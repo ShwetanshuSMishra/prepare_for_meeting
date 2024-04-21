@@ -18,6 +18,3 @@ This is a CrewAI project, designed to assist in managing and preparing for busin
 
 - **CrewAI Framework:** Leveraged to design and implement the functionality of autonomous agents.
 - **Python:** Primary programming language used for scripting and automation.
-
-## Acknowledgements
-Special thanks to Alejandro AO for the inspirational CrewAI tutorial.
